@@ -1,0 +1,15 @@
+C:\Users\burak\Desktop\dotnet\patikaödev\bin\Debug\net7.0\patikaödev.exe
+C:\Users\burak\Desktop\dotnet\patikaödev\bin\Debug\net7.0\patikaödev.deps.json
+C:\Users\burak\Desktop\dotnet\patikaödev\bin\Debug\net7.0\patikaödev.runtimeconfig.json
+C:\Users\burak\Desktop\dotnet\patikaödev\bin\Debug\net7.0\patikaödev.dll
+C:\Users\burak\Desktop\dotnet\patikaödev\bin\Debug\net7.0\patikaödev.pdb
+C:\Users\burak\Desktop\dotnet\patikaödev\obj\Debug\net7.0\patikaödev.csproj.AssemblyReference.cache
+C:\Users\burak\Desktop\dotnet\patikaödev\obj\Debug\net7.0\patikaödev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Desktop\dotnet\patikaödev\obj\Debug\net7.0\patikaödev.AssemblyInfoInputs.cache
+C:\Users\burak\Desktop\dotnet\patikaödev\obj\Debug\net7.0\patikaödev.AssemblyInfo.cs
+C:\Users\burak\Desktop\dotnet\patikaödev\obj\Debug\net7.0\patikaödev.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\dotnet\patikaödev\obj\Debug\net7.0\patikaödev.dll
+C:\Users\burak\Desktop\dotnet\patikaödev\obj\Debug\net7.0\refint\patikaödev.dll
+C:\Users\burak\Desktop\dotnet\patikaödev\obj\Debug\net7.0\patikaödev.pdb
+C:\Users\burak\Desktop\dotnet\patikaödev\obj\Debug\net7.0\patikaödev.genruntimeconfig.cache
+C:\Users\burak\Desktop\dotnet\patikaödev\obj\Debug\net7.0\ref\patikaödev.dll
