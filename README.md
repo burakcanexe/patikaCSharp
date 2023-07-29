@@ -1,2 +1,2 @@
-# patikaCSharp
-Patika.dev basit algoritma soruları
+# Patika.dev Questions
+Basic algorithm questions.
